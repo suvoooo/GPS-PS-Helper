@@ -1,2 +1,2 @@
 # GPS-PS-Helper
-Point Source in GPS. Simulated data to Inputs &amp; More: Helper
+Point + Extended Sources in GPS. Simulated data to Inputs &amp; More: Helper Functions
