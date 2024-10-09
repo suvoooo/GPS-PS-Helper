@@ -3,7 +3,7 @@ Point + Extended Sources in GPS. Simulated data to Inputs &amp; More: Helper Fun
 
 `model_txt_to_csv_all.py`: convert the text files containing source params to csv files (better readability)
 
-`lat_lon_to_x_y.npy`: reads the csv file, obtain the source locations in lat, long, turn them into pixel coord, save in csv
+`lat_lon_to_x_y.npy`: reads the csv file, obtain the source locations in lat, long, turn them into pixel coord, save in csv. Requires [Gammapy](https://gammapy.org/)
 
 `fits_to_npy.py`: convert the fits files to npy array and save them
 
